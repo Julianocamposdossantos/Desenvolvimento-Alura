@@ -1,0 +1,9 @@
+.receita__imagem {
+	height: 1000px;
+	border-image-slice: 100%;
+}
+@media screen and (min-width: 0) {
+	.receita__imagem {
+		height: 100px;
+	}
+}
